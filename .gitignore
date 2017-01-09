@@ -1,0 +1,14 @@
+*~
+
+#build
+[0o]bj/
+[Bb]in/
+packages
+
+*.DS_Store
+*.suo
+*.cache
+*.tar.gz
+
+.vs
+
